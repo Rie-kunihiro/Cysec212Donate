@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">donate</string>
+    <string name="action_settings">Settings</string>
+    <string name="donateButton">Donate</string>
+    <string name="gcash">Gcash</string>
+    <string name="payaaya">payaaya</string>
+    <string name="total">Total</string>
+    <string name="amount">Amount</string>
+</resources>
