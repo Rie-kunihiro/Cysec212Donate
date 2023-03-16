@@ -22,6 +22,8 @@ import android.widget.ImageView;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class Donate extends AppCompatActivity {
+
+    private static final String TAG= Donate.class.getSimpleName();
     private final int CAMERA_REQ_CODE = 100;
     private Button Apply;
     private RadioGroup paymentMethod;
